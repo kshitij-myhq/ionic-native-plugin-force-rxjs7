@@ -1,16 +1,31 @@
 {
-    "name": "ionic-native-plugin-force-rxjs7",
-    "version": "1.0.0",
-    "description": "Modified ionic-native plugins compatible with RxJS 7.x",
-    "main": "index.js",
-    "author": "Kshitij Jajorea",
-    "license": "MIT",
-    "files": [
-        "core",
-        "date-picker",
-        "google-plus",
-        "mixpanel",
-        "push",
-        "sms-retriever"
-    ]
+  "name": "@ionic-native/core",
+  "version": "5.36.0-force.0",
+  "description": "Ionic Native - Native plugins for ionic apps (Forced for rxJs 7.x.x)",
+  "main": "bundle.js",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "author": "ionic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kshitij-myhq/ionic-native-plugin-force-rxjs7.git"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "bundle.js",
+    "decorators/",
+    "util/"
+  ],
+  "dependencies": {
+    "@types/cordova": "latest"
+  },
+  "peerDependencies": {
+    "rxjs": "^5.5.0 || ^6.5.0 || ^7.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/kshitij-myhq/ionic-native-plugin-force-rxjs7/issues"
+  },
+  "keywords": ["ionic-native", "cordova", "plugin", "core", "rxjs7"]
 }
