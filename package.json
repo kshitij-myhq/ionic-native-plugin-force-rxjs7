@@ -1,31 +1,39 @@
 {
-    "name": "@ionic-native/google-plus",
-    "version": "5.36.0-force.0",
-    "description": "Ionic Native - Google Plus plugin (patched for RxJS 7.x compatibility)",
-    "main": "ngx/bundle.js",
-    "module": "ngx/index.js",
-    "typings": "ngx/index.d.ts",
-    "author": "ionic",
-    "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/kshitij-myhq/ionic-native-plugin-force-rxjs7.git"
-    },
-    "dependencies": {
-        "@types/cordova": "latest"
-    },
-    "peerDependencies": {
-        "rxjs": "^7.8.1",
-        "@ionic-native/core": "5.36.0-force.0"
-    },
-    "bugs": {
-        "url": "https://github.com/kshitij-myhq/ionic-native-plugin-force-rxjs7/issues"
-    },
-    "keywords": [
-        "ionic-native",
-        "cordova",
-        "plugin",
-        "google-plus",
-        "rxjs7"
-    ]
+  "name": "@ionic-native/google-plus",
+  "version": "5.36.0-force.0",
+  "description": "Ionic Native - Google Plus plugin (patched for RxJS 7.x compatibility)",
+  "main": "ngx/bundle.js",
+  "module": "ngx/index.js",
+  "typings": "ngx/index.d.ts",
+  "author": "ionic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kshitij-myhq/ionic-native-plugin-force-rxjs7.git"
+  },
+  "files": [
+    "ngx/",
+    "ngx/index.js",
+    "ngx/bundle.js",
+    "index.js",
+    "index.d.ts",
+    "README.md"
+  ],
+  "dependencies": {
+    "@types/cordova": "latest"
+  },
+  "peerDependencies": {
+    "rxjs": "^7.8.1",
+    "@ionic-native/core": "5.36.0-force.0"
+  },
+  "bugs": {
+    "url": "https://github.com/kshitij-myhq/ionic-native-plugin-force-rxjs7/issues"
+  },
+  "keywords": [
+    "ionic-native",
+    "cordova",
+    "plugin",
+    "google-plus",
+    "rxjs7"
+  ]
 }
