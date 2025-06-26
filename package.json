@@ -1,16 +1,31 @@
 {
-    "name": "ionic-native-plugin-force-rxjs7",
-    "version": "1.0.0",
-    "description": "Modified ionic-native plugins compatible with RxJS 7.x",
-    "main": "index.js",
-    "author": "Kshitij Jajorea",
+    "name": "@ionic-native/push",
+    "version": "5.36.0-force.0",
+    "description": "Ionic Native Push plugin - patched for RxJS 7",
+    "main": "bundle.js",
+    "module": "index.js",
+    "typings": "index.d.ts",
+    "author": "ionic",
     "license": "MIT",
-    "files": [
-        "core",
-        "date-picker",
-        "google-plus",
-        "mixpanel",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kshitij-myhq/ionic-native-plugin-force-rxjs7.git"
+    },
+    "dependencies": {
+        "@types/cordova": "latest"
+    },
+    "peerDependencies": {
+        "rxjs": "^7.8.1",
+        "@ionic-native/core": "5.36.0-force.0"
+    },
+    "bugs": {
+        "url": "https://github.com/kshitij-myhq/ionic-native-plugin-force-rxjs7/issues"
+    },
+    "keywords": [
+        "ionic-native",
+        "cordova",
+        "plugin",
         "push",
-        "sms-retriever"
+        "rxjs7"
     ]
 }
