@@ -1,14 +1,23 @@
-# Note
+<a style="float:right;font-size:12px;" href="http://github.com/ionic-team/ionic-native/edit/master/src/@ionic-native/plugins/sms-retriever/index.ts#L1">
+  Improve this doc
+</a>
 
-This is modified version of plugins by @ionic-native plugins by Awesome Cordova Plugins
+# Sms Retriever
 
-You can access the original plugins [Here](https://github.com/danielsogl/awesome-cordova-plugins)
+```
+$ ionic cordova plugin add cordova-plugin-sms-retriever-manager --variable PLAY_SERVICES_VERSION="15.0.1"
+$ npm install @ionic-native/sms-retriever
+```
 
-# Modified Plugins
+## [Usage Documentation](https://ionicframework.com/docs/native/sms-retriever/)
 
-- Core
-- Date-picker
-- Google-plus
-- MixPanel
-- Push
-- SMS Retriever
+Plugin Repo: [https://github.com/hanatharesh2712/ionic-native-sms-retriever-plugin-master](https://github.com/hanatharesh2712/ionic-native-sms-retriever-plugin-master)
+
+This plugin retrives the SMS which arrive without requiring READ permissions.
+
+## Supported platforms
+
+- Android
+  
+
+
