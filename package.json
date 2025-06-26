@@ -12,11 +12,27 @@
     "url": "https://github.com/kshitij-myhq/ionic-native-plugin-force-rxjs7.git"
   },
   "files": [
-    "index.js",
-    "index.d.ts",
+    "bootstrap.d.ts",
+    "bootstrap.js",
+    "bootstrap.js.map",
+    "bootstrap.metadata.json",
     "bundle.js",
-    "decorators/",
-    "util/"
+    "decorators",
+    "index.d.ts",
+    "index.js",
+    "index.js.map",
+    "index.metadata.json",
+    "ionic-native-plugin.d.ts",
+    "ionic-native-plugin.js",
+    "ionic-native-plugin.js.map",
+    "ionic-native-plugin.metadata.json",
+    "ng1.d.ts",
+    "ng1.js",
+    "ng1.js.map",
+    "util.d.ts",
+    "util.js",
+    "util.js.map",
+    "util.metadata.json"
   ],
   "dependencies": {
     "@types/cordova": "latest"
@@ -27,5 +43,11 @@
   "bugs": {
     "url": "https://github.com/kshitij-myhq/ionic-native-plugin-force-rxjs7/issues"
   },
-  "keywords": ["ionic-native", "cordova", "plugin", "core", "rxjs7"]
+  "keywords": [
+    "ionic-native",
+    "cordova",
+    "plugin",
+    "core",
+    "rxjs7"
+  ]
 }
