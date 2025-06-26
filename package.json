@@ -16,7 +16,7 @@
     },
     "peerDependencies": {
         "rxjs": "^5.5.0 || ^6.5.0 || ^7.0.0",
-        "@ionic-native/core": "github:kshitij-myhq/ionic-native-plugin-force-rxjs7#core-patched"
+        "@ionic-native/core": "5.36.0-force.0"
     },
     "bugs": {
         "url": "https://github.com/kshitij-myhq/ionic-native-plugin-force-rxjs7/issues"
