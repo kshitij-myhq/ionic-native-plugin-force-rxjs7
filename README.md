@@ -1,6 +1,6 @@
 # Note
 
-This is modified version of plugins by @ioni-native plugins by Awesome Cordova Plugins
+This is modified version of plugins by @ionic-native plugins by Awesome Cordova Plugins
 
 You can access the original plugins [Here](https://github.com/danielsogl/awesome-cordova-plugins)
 
