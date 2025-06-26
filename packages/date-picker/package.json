@@ -1,0 +1,26 @@
+{
+    "name": "@ionic-native/date-picker",
+    "version": "5.36.0-force.0",
+    "description": "Ionic Native - Native plugins for ionic apps (Forced for rxJs 7.x.x)",
+    "main": "bundle.js",
+    "module": "index.js",
+    "typings": "index.d.ts",
+    "author": "ionic",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kshitij-myhq/ionic-native-plugin-force-rxjs7.git",
+        "directory": "packages/date-picker"
+    },
+    "dependencies": {
+        "@types/cordova": "latest"
+    },
+    "peerDependencies": {
+        "rxjs": "^5.5.0 || ^6.5.0 || ^7.0.0",
+        "@ionic-native/core": "^5.1.0"
+    },
+    "bugs": {
+        "url": "https://github.com/kshitij-myhq/ionic-native-plugin-force-rxjs7/issues"
+    },
+    "keywords": ["ionic-native", "cordova", "plugin", "date-picker", "rxjs7"]
+}
