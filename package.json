@@ -2,9 +2,9 @@
     "name": "@ionic-native/push",
     "version": "5.36.0-force.0",
     "description": "Ionic Native Push plugin - patched for RxJS 7",
-    "main": "bundle.js",
-    "module": "index.js",
-    "typings": "index.d.ts",
+    "main": "ngx/bundle.js",
+    "module": "ngx/index.js",
+    "typings": "ngx/index.d.ts",
     "author": "ionic",
     "license": "MIT",
     "repository": {
