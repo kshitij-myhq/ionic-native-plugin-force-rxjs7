@@ -1,16 +1,31 @@
 {
-    "name": "ionic-native-plugin-force-rxjs7",
-    "version": "1.0.0",
-    "description": "Modified ionic-native plugins compatible with RxJS 7.x",
-    "main": "index.js",
-    "author": "Kshitij Jajorea",
+    "name": "@ionic-native/date-picker",
+    "version": "5.36.0-force.0",
+    "description": "Ionic Native - Native plugins for ionic apps (Forced for rxJs 7.x.x)",
+    "main": "bundle.js",
+    "module": "index.js",
+    "typings": "index.d.ts",
+    "author": "ionic",
     "license": "MIT",
-    "files": [
-        "core",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kshitij-myhq/ionic-native-plugin-force-rxjs7.git"
+    },
+    "dependencies": {
+        "@types/cordova": "latest"
+    },
+    "peerDependencies": {
+        "rxjs": "^5.5.0 || ^6.5.0 || ^7.0.0",
+        "@ionic-native/core": "github:kshitij-myhq/ionic-native-plugin-force-rxjs7#core-patched"
+    },
+    "bugs": {
+        "url": "https://github.com/kshitij-myhq/ionic-native-plugin-force-rxjs7/issues"
+    },
+    "keywords": [
+        "ionic-native",
+        "cordova",
+        "plugin",
         "date-picker",
-        "google-plus",
-        "mixpanel",
-        "push",
-        "sms-retriever"
+        "rxjs7"
     ]
 }

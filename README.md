@@ -1,14 +1,25 @@
-# Note
+<a style="float:right;font-size:12px;" href="http://github.com/ionic-team/ionic-native/edit/master/src/@ionic-native/plugins/date-picker/index.ts#L118">
+  Improve this doc
+</a>
 
-This is modified version of plugins by @ionic-native plugins by Awesome Cordova Plugins
+# Date Picker
 
-You can access the original plugins [Here](https://github.com/danielsogl/awesome-cordova-plugins)
+```
+$ ionic cordova plugin add cordova-plugin-datepicker
+$ npm install @ionic-native/date-picker
+```
 
-# Modified Plugins
+## [Usage Documentation](https://ionicframework.com/docs/native/date-picker/)
 
-- Core
-- Date-picker
-- Google-plus
-- MixPanel
-- Push
-- SMS Retriever
+Plugin Repo: [https://github.com/VitaliiBlagodir/cordova-plugin-datepicker](https://github.com/VitaliiBlagodir/cordova-plugin-datepicker)
+
+The DatePicker plugin allows the user to fetch date or time using native dialogs.
+
+## Supported platforms
+
+- Android
+  - iOS
+  - Windows
+  
+
+
