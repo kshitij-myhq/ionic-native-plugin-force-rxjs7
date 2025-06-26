@@ -1,7 +1,7 @@
 {
     "name": "@ionic-native/google-plus",
     "version": "5.36.0-force.0",
-    "description": "Ionic Native Google Plus plugin - patched for RxJS 7",
+    "description": "Ionic Native - Google Plus plugin (patched for RxJS 7.x compatibility)",
     "main": "bundle.js",
     "module": "index.js",
     "typings": "index.d.ts",
@@ -16,7 +16,7 @@
     },
     "peerDependencies": {
         "rxjs": "^7.8.1",
-        "@ionic-native/core": "^5.36.0"
+        "@ionic-native/core": "5.36.0-force.0"
     },
     "bugs": {
         "url": "https://github.com/kshitij-myhq/ionic-native-plugin-force-rxjs7/issues"
