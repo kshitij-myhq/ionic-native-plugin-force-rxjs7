@@ -1,5 +1,9 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) ![](https://img.shields.io/npm/v/@awesome-cordova-plugins/core.svg)
 
+# ⚠️ Note
+
+This plugin has been manually patched to force compatibility with RxJS 7.x.
+
 # Awesome Cordova Plugins
 
 Awesome Cordova Plugins is a curated set of wrappers for Cordova plugins that make adding any native functionality you need to your [Ionic](https://ionicframework.com/) mobile app easy.
