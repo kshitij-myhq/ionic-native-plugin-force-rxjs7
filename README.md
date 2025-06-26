@@ -1,14 +1,24 @@
-# Note
+<a style="float:right;font-size:12px;" href="http://github.com/ionic-team/ionic-native/edit/master/src/@ionic-native/plugins/google-plus/index.ts#L1">
+  Improve this doc
+</a>
 
-This is modified version of plugins by @ionic-native plugins by Awesome Cordova Plugins
+# Google Plus
 
-You can access the original plugins [Here](https://github.com/danielsogl/awesome-cordova-plugins)
+```
+$ ionic cordova plugin add cordova-plugin-googleplus --variable REVERSED_CLIENT_ID=myreversedclientid
+$ npm install @ionic-native/google-plus
+```
 
-# Modified Plugins
+## [Usage Documentation](https://ionicframework.com/docs/native/google-plus/)
 
-- Core
-- Date-picker
-- Google-plus
-- MixPanel
-- Push
-- SMS Retriever
+Plugin Repo: [https://github.com/EddyVerbruggen/cordova-plugin-googleplus](https://github.com/EddyVerbruggen/cordova-plugin-googleplus)
+
+
+
+## Supported platforms
+
+- Android
+  - iOS
+  
+
+
