@@ -1,14 +1,25 @@
-# Note
+<a style="float:right;font-size:12px;" href="http://github.com/ionic-team/ionic-native/edit/master/src/@ionic-native/plugins/mixpanel/index.ts#L3">
+  Improve this doc
+</a>
 
-This is modified version of plugins by @ionic-native plugins by Awesome Cordova Plugins
+# Mixpanel
 
-You can access the original plugins [Here](https://github.com/danielsogl/awesome-cordova-plugins)
+```
+$ ionic cordova plugin add cordova-plugin-mixpanel
+$ npm install @ionic-native/mixpanel
+```
 
-# Modified Plugins
+## [Usage Documentation](https://ionicframework.com/docs/native/mixpanel/)
 
-- Core
-- Date-picker
-- Google-plus
-- MixPanel
-- Push
-- SMS Retriever
+Plugin Repo: [https://github.com/samzilverberg/cordova-mixpanel-plugin](https://github.com/samzilverberg/cordova-mixpanel-plugin)
+
+Cordova Plugin that wraps Mixpanel SDK for Android and iOS
+
+## Supported platforms
+
+- Android
+  - Browser
+  - iOS
+  
+
+
